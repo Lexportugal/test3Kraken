@@ -8,3 +8,4 @@ test3Kraken
 <RELEASE NOTES// PATCH NOTES: >
 
 <Inserindo feature/featureXyz>
+<Inserindo feature/featureXpto>
