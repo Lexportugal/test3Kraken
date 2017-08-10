@@ -5,7 +5,9 @@ test3Kraken
 <Separando Branch de suporte (feature)>
 <Inserindo os componentes>
 
-<RELEASE NOTES// PATCH NOTES: >
+<RELEASE NOTES// PATCH NOTES:
+    Patch 1.0.3 notes: Dararari
+>
 
 <Inserindo feature/featureXyz>
 <Inserindo feature/featureXpto>
