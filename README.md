@@ -6,3 +6,5 @@ test3Kraken
 <Inserindo os componentes>
 
 <RELEASE NOTES// PATCH NOTES: >
+
+<Inserindo feature/featureXpto>
