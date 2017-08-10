@@ -4,3 +4,5 @@ test3Kraken
 <Feature Toolbar>
 <Separando Branch de suporte (feature)>
 <Inserindo os componentes>
+
+<RELEASE NOTES// PATCH NOTES: >
